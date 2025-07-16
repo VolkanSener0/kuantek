@@ -1,0 +1,2 @@
+# guvenliuyduhaberlesmesi
+FREKANS ATLAMALI VE FİZİKSEL KATMANLI GÜVENLİ HABERLEŞME SİSTEMİ
